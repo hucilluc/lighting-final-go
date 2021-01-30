@@ -57,7 +57,7 @@ LightmapSettings:
     serializedVersion: 12
     m_Resolution: 2
     m_BakeResolution: 40
-    m_AtlasSize: 256
+    m_AtlasSize: 1024
     m_AO: 0
     m_AOMaxDistance: 1
     m_CompAOExponent: 1
@@ -974,7 +974,7 @@ PrefabInstance:
     - target: {fileID: 5401035929599044645, guid: 40c3fb15c81424bcdb2091bac091a947,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.08
+      value: 1.73
       objectReference: {fileID: 0}
     - target: {fileID: 5401035929599044645, guid: 40c3fb15c81424bcdb2091bac091a947,
         type: 3}
@@ -1045,6 +1045,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895865662911831713, guid: 40c3fb15c81424bcdb2091bac091a947,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.55518
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895865662911831713, guid: 40c3fb15c81424bcdb2091bac091a947,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.55518
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895865662911831713, guid: 40c3fb15c81424bcdb2091bac091a947,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.55518
       objectReference: {fileID: 0}
     - target: {fileID: 8996935184337764424, guid: 40c3fb15c81424bcdb2091bac091a947,
         type: 3}
